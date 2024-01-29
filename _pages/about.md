@@ -19,7 +19,7 @@ Smart Traditional Chinese Medicine(TCM)
 ======
 This project is an educational based project during my master's career. The academic supervisor is Dr.Xie sihong, and the project supervisor is Dr.Li beijinni.
 Our project is a cross-disciplinary project combined Computer Sceince, Artificial Intelligence, Data Science, Innovation Policy and Entrepreneurship, Fintech, ect. We want to use cutting-edge technologies in TCM domain, improving doctors' work efficiency, supporting for the decision-making.
-(Flow.png)
+"Flow.png"
 
 Working Experience 
 ======
