@@ -11,49 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachlor of Engineerin   Xidian University, 2018 - 2022
+* Master of Philosophy   Hong Kong University of Science and Technology(Guangzhou), 2023 - present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - 2021: Tencent S3/ Product Manager Intern
+  * China Shenzhen
+  * Duties included: Human Resources Platform functions Design. Including Remuneration platform, Transfer platform, ect.
+  * Mentor: ChelseacwLi
+  
+* 2022 - 2023: Tencent IEG/ Product Manager
+  * China Shenzhen
+  * Duties included: Public Welfare Platform functions Design. Including fixture platform, AI sports platform, ect.
+  * Mentor: ChelseacwLi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022 - 2023: Alibaba Lazada/Product Manager
+  * China Shenzhen
+  * Duties included: PDP(Product detial page) functions Design
+  * Mentor: Frank
   
-Skills
+Educational Project
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Smart TCM
+  * Goal: Using AI tools to protect Traditional Chinese Cultures
+  * I will focus on building a trustworthy and interpretable doamin-LLM which can widely use in TCM domain.
+  * Methods: RAG(Retrival-Augmented Generation), CoT(Chain of Thought)
