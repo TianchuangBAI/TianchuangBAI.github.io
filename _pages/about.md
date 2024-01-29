@@ -12,7 +12,9 @@ I am a Mphil student from [Hong Kong University of Sicience and Technology(Guang
 
 I am very fortunate to be advised by [Prof.Xie sihong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIE-Sihong/sihongxie) of XAI Lab from AI Trust, Hong Kong University of Science and Technology(Guangzhou).
 
-You can find my [resume]() if you are interest. Or maybe you want to see the [paper reading list](https://tmzkx67um7.feishu.cn/wiki/TuS9wo9cniNNrnkwyDbcuLIqnxb?fromScene=spaceOverview)
+I like to  travel around and I may go to Kenya and Northern Europe in 2024.
+
+You can send me an [email](tbai565@connect.hkust-gz.edu.cn) if you are interest in my research or travel plan. Or maybe you want to see the [reading notes](https://tmzkx67um7.feishu.cn/wiki/TuS9wo9cniNNrnkwyDbcuLIqnxb?fromScene=spaceOverview)
 
 
 Smart Traditional Chinese Medicine(TCM) 
