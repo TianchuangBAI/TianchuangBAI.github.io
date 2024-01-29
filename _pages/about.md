@@ -12,9 +12,9 @@ I am a Mphil student from [Hong Kong University of Sicience and Technology(Guang
 
 I am so fortunate to be advised by [Prof.Xie sihong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIE-Sihong/sihongxie) of XAI Lab from AI Trust, Hong Kong University of Science and Technology(Guangzhou).
 
-You can find my resume here:[Tianchuang's Resume]() if you are interest.
+You can find my [resume]() if you are interest.
 
-[Email](mailto:tbai565@connect.hkust-gz.edu.cn)/[Github](https://github.com/TianchuangBAI)/[CSDN](https://blog.csdn.net/taoshi_com?spm=1000.2115.3001.5343)
+[Email](mailto:tbai565@connect.hkust-gz.edu.cn) /[Github](https://github.com/TianchuangBAI) /[CSDN](https://blog.csdn.net/taoshi_com?spm=1000.2115.3001.5343)
 
 A data-driven personal website
 ======
