@@ -14,7 +14,6 @@ I am very fortunate to be advised by [Prof.Xie sihong](https://facultyprofiles.h
 
 You can find my [resume]() if you are interest.
 
-[Email](mailto:tbai565@connect.hkust-gz.edu.cn) /[Github](https://github.com/TianchuangBAI) /[CSDN](https://blog.csdn.net/taoshi_com?spm=1000.2115.3001.5343)
 
 A data-driven personal website
 ======
