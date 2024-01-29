@@ -19,7 +19,7 @@ Work experience
 * 2020 - 2021: Tencent S3/ Product Manager Intern
   * China Shenzhen
   * Duties included: Human Resources Platform functions Design. Including Remuneration platform, Transfer platform, ect.
-  * Mentor: Chelseacw Li(李成雯)
+  * Mentor: Chelsea Li(李成雯)
   
 * 2022 - 2023: Tencent IEG/ Product Manager
   * China Shenzhen
