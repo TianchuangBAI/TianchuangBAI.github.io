@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Mphil student from [Hong Kong University of Sicience and Technology(Guangzhou)](https://www.hkust-gz.edu.cn/zh/?variant=zh-hk/), [Artificial Intelligence Trust](https://www.hkust-gz.edu.cn/zh/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/). My research interest includes Explainable Large Language Models, Natural Language Processing, Interpretable Mechine Learning.
+I am a Mphil student from [Hong Kong University of Sicience and Technology(Guangzhou)](https://www.hkust-gz.edu.cn/zh/?variant=zh-hk/), [Artificial Intelligence Trust](https://www.hkust-gz.edu.cn/zh/academics/hubs-and-thrust-areas/information-hub/artificial-intelligence/). My research interest includes Explainable Large Language Models(LLM), Natural Language Processing(NLP), Explainable Mechine Learning(XML).
 
-I am so fortunate to be advised by [Prof.Xie sihong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIE-Sihong/sihongxie) of XAI Lab from AI Trust, Hong Kong University of Science and Technology(Guangzhou).
+I am very fortunate to be advised by [Prof.Xie sihong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIE-Sihong/sihongxie) of XAI Lab from AI Trust, Hong Kong University of Science and Technology(Guangzhou).
 
 You can find my [resume]() if you are interest.
 
