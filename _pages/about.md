@@ -14,7 +14,7 @@ I am very fortunate to be advised by [Prof.Xie sihong](https://facultyprofiles.h
 
 I like to  travel around and I may go to Kenya and Northern Europe in 2024.
 
-You can send me an [email](tbai565@connect.hkust-gz.edu.cn) if you are interest in my research or travel plan. Or maybe you want to see the [reading notes](https://tmzkx67um7.feishu.cn/wiki/TuS9wo9cniNNrnkwyDbcuLIqnxb?fromScene=spaceOverview)
+You can send me an [email](mailto:tbai565@connect.hkust-gz.edu.cn) if you are interest in my research or travel plan. Or maybe you want to see the [reading notes](https://tmzkx67um7.feishu.cn/wiki/TuS9wo9cniNNrnkwyDbcuLIqnxb?fromScene=spaceOverview)
 
 
 Smart Traditional Chinese Medicine(TCM) 
